@@ -1,0 +1,189 @@
+* {
+  margin:0!important;
+  font-family: "lato";
+}
+.fondo1{
+  background:linear-gradient(rgba(92,207,219,.6),rgba(75,41,148,.6)),url(../img/fondo1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  width: 100%;
+  height: 600px;
+}
+.fondo1 .row {
+  padding-top:33%;
+}
+.nombre {
+  color: #fff;
+  background:rgba(0,0,0,.5);
+  padding: 1%;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Batang;
+}
+.menu {
+  color: #A7E4DD;
+  background: rgba(0,0,0,.5);
+  padding: 1%;
+  font-size: 33px;
+  font-family: Batang;
+}
+.fondo1 .nombre:hover {
+  color:
+}
+.fondodatos {
+  background:linear-gradient(rgba(179,252,204,.8),rgba(33,223,235, .6)),url(../img/fondodatos.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 750px;
+}
+.espacio {
+  padding-top: 2%;
+}
+.fondodatos img {
+  width: 260px;
+  height: 300px;
+  margin-top: 20%;
+  box-shadow: 0px 0px 4px 0 rgba(255,255,255,.5);
+  clip-path:circle(120px at 140px 140px);
+}
+
+}
+.fondodatos h1 {
+  color: #d2d2d2;
+  font-size: 10px;
+  font-family: "lato";
+  text-shadow: 1px 1px 1px #000;
+}
+.xd {
+  color: #d2d2d2;
+  font-size: 45px;
+  font-family: "lato";
+  text-shadow: 2px 2px 2px #000;
+  padding-left: 30%;
+  padding-top: 5%;
+
+}
+.pading p  {
+  padding-left: 30%;
+
+}
+.Profecion {
+  color: #d2d2d2;
+  font-size: 45px;
+  font-family: "lato";
+  text-shadow: 2px 2px 2px #000;
+  padding-top: 5%;
+}
+.fondodatos p {
+  color: #fff;
+  font-size: 30px;
+  font-family: "lato";
+  letter-spacing: 3px;
+}
+.fondo3 {
+  background: #f0f3f5;
+  width: 100%;
+  height:960px;
+}
+.fondo3 h1 {
+  color: #2d3950;
+  padding-top: 5%;
+  text-align: center;
+}
+.fondo3 .container {
+  width: 100%;
+}
+.espaciofotos img {
+  width: 900px;
+  box-shadow: 2px 2px 2px #000;
+  border-radius: 1%;
+
+}
+.contenedorgaleria {
+  padding-left: 14.8%;
+  padding-right: 16%;
+  height: 350px;
+}
+.marcoimg {
+  width: 100%;
+}
+.marcoimg img {
+  width: 100%;
+  box-shadow: 2px 2px 2px #000;
+  border-radius: 5%;
+}
+.fondo4 {
+  background:linear-gradient(rgba(0,0,0,.9),rgba(0,0,0, .9)),url(../img/teclado.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+.fondo4 h1 {
+  color: #fff;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 20%;
+  transition: 1s;
+}
+.fondo4 h1:hover {
+  color:#FF95A5;
+  font-size:65px;
+}
+.fondo5 {
+  background:url(../img/fondo5.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+.opacidad {
+  background: rgba(0, 0, 0, .5);
+  width: 100%;
+  height: 100%;
+}
+.fondo5 h2 {
+  color: #f3f3f3;
+  text-align: center;
+  font-size: 55px;
+  padding-top: 3%;
+  padding-left: 15%;
+}
+.fondo5 h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 35px;
+}
+.fondo5 h3 {
+  color: #fff;
+  text-align: center;
+  font-size: 35px;
+  padding-left: 35%;
+  padding-bottom: 18%;
+}
+.fondo5 p {
+  color: #FFFCA7;
+  text-align: center;
+  font-size: 55px;
+  padding-top: 25%;
+  transition: 1s;
+}
+.fondo5 p:hover {
+  color: #A7FFE4;
+  font-size: 40px;
+}
+.fondo5 img {
+  width: 500px;
+  height: auto;
+  padding-left: 38%;
+  transition: 1s;
+  text-shadow: 2px 2px 2px #000;
+}
+.fondo5 img:hover {
+  transform: scale(1.2);
+}
